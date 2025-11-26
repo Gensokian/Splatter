@@ -218,7 +218,7 @@ game.settings.set("splatter", "BloodSheetData", bloodSheetData);
 
 # DAGGERHEART
 
-## 1. Module settings: (Modified for Discord)
+## 1. Module settings:
 
 | Field | Value |
 |:---|:---|
