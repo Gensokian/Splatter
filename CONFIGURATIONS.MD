@@ -231,6 +231,7 @@ game.settings.set("splatter", "BloodSheetData", bloodSheetData);
 > NOTE: Since adversaries dont generally use ancestries, I set the custom Creature Type to the attribution. (Top right 3 dots in character sheet -> Configure attribution -> SOURCE) this is a big ol' hack and if someone knows any better way of solving this, be my guest.
 
 2. All ancestries from Daggerheart CORE as well as THE VOID - Mixed ancestries obviously would need to be configured manually.
+If you want companions to have splats aswell, use the source attribution "hack" alike with adversaries
 
 ```js
 const bloodSheetData = {
