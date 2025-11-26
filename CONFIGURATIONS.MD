@@ -218,7 +218,7 @@ game.settings.set("splatter", "BloodSheetData", bloodSheetData);
 
 # DAGGERHEART
 
-## 1. Module settings:
+1. Module settings:
 
 | Field | Value |
 |:---|:---|
@@ -230,7 +230,7 @@ game.settings.set("splatter", "BloodSheetData", bloodSheetData);
 
 > NOTE: Since adversaries dont generally use ancestries, I set the custom Creature Type to the attribution. (Top right 3 dots in character sheet -> Configure attribution -> SOURCE) this is a big ol' hack and if someone knows any better way of solving this, be my guest.
 
-## 2. All ancestries from Daggerheart CORE as well as THE VOID - Mixed ancestries obviously would need to be configured manually.
+2. All ancestries from Daggerheart CORE as well as THE VOID - Mixed ancestries obviously would need to be configured manually.
 
 ```js
 const bloodSheetData = {
